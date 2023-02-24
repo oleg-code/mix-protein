@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.28e136b5.css",
+    "main.js": "/react-gh-pages/static/js/main.cf14b0df.js",
+    "static/js/787.a12a8541.chunk.js": "/react-gh-pages/static/js/787.a12a8541.chunk.js",
+    "static/media/travel-02.jpg": "/react-gh-pages/static/media/travel-02.6734487a30263bd3aa33.jpg",
+    "static/media/travel-03.jpg": "/react-gh-pages/static/media/travel-03.9f92d8d45d7140e30180.jpg",
+    "static/media/travel-01.jpg": "/react-gh-pages/static/media/travel-01.58b83baebccb36b873cc.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.28e136b5.css.map": "/react-gh-pages/static/css/main.28e136b5.css.map",
+    "main.cf14b0df.js.map": "/react-gh-pages/static/js/main.cf14b0df.js.map",
+    "787.a12a8541.chunk.js.map": "/react-gh-pages/static/js/787.a12a8541.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e136b5.css",
+    "static/js/main.cf14b0df.js"
+  ]
+}
