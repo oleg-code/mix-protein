@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/mix-protein/static/css/main.28e136b5.css",
-    "main.js": "/mix-protein/static/js/main.e0192fc7.js",
+    "main.js": "/mix-protein/static/js/main.b7146935.js",
     "static/js/787.d1198a29.chunk.js": "/mix-protein/static/js/787.d1198a29.chunk.js",
     "static/media/travel-02.jpg": "/mix-protein/static/media/travel-02.6734487a30263bd3aa33.jpg",
     "static/media/travel-03.jpg": "/mix-protein/static/media/travel-03.9f92d8d45d7140e30180.jpg",
-    "static/media/travel-01.jpg": "/mix-protein/static/media/travel-01.58b83baebccb36b873cc.jpg",
+    "static/media/travel-01.jpg": "/mix-protein/static/media/travel-01.1be0c3c91378e3609619.jpg",
     "index.html": "/mix-protein/index.html",
     "main.28e136b5.css.map": "/mix-protein/static/css/main.28e136b5.css.map",
-    "main.e0192fc7.js.map": "/mix-protein/static/js/main.e0192fc7.js.map",
+    "main.b7146935.js.map": "/mix-protein/static/js/main.b7146935.js.map",
     "787.d1198a29.chunk.js.map": "/mix-protein/static/js/787.d1198a29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28e136b5.css",
-    "static/js/main.e0192fc7.js"
+    "static/js/main.b7146935.js"
   ]
 }
