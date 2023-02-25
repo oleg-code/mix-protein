@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mix-protein/static/css/main.28e136b5.css",
-    "main.js": "/mix-protein/static/js/main.e0192fc7.js",
-    "static/js/787.d1198a29.chunk.js": "/mix-protein/static/js/787.d1198a29.chunk.js",
-    "static/media/travel-02.jpg": "/mix-protein/static/media/travel-02.6734487a30263bd3aa33.jpg",
-    "static/media/travel-03.jpg": "/mix-protein/static/media/travel-03.9f92d8d45d7140e30180.jpg",
-    "static/media/travel-01.jpg": "/mix-protein/static/media/travel-01.58b83baebccb36b873cc.jpg",
-    "index.html": "/mix-protein/index.html",
-    "main.28e136b5.css.map": "/mix-protein/static/css/main.28e136b5.css.map",
-    "main.e0192fc7.js.map": "/mix-protein/static/js/main.e0192fc7.js.map",
-    "787.d1198a29.chunk.js.map": "/mix-protein/static/js/787.d1198a29.chunk.js.map"
+    "main.css": "/oleg-code/mix-protein.git/static/css/main.28e136b5.css",
+    "main.js": "/oleg-code/mix-protein.git/static/js/main.82d278a9.js",
+    "static/js/787.d1198a29.chunk.js": "/oleg-code/mix-protein.git/static/js/787.d1198a29.chunk.js",
+    "static/media/travel-02.jpg": "/oleg-code/mix-protein.git/static/media/travel-02.6734487a30263bd3aa33.jpg",
+    "static/media/travel-03.jpg": "/oleg-code/mix-protein.git/static/media/travel-03.9f92d8d45d7140e30180.jpg",
+    "static/media/travel-01.jpg": "/oleg-code/mix-protein.git/static/media/travel-01.58b83baebccb36b873cc.jpg",
+    "index.html": "/oleg-code/mix-protein.git/index.html",
+    "main.28e136b5.css.map": "/oleg-code/mix-protein.git/static/css/main.28e136b5.css.map",
+    "main.82d278a9.js.map": "/oleg-code/mix-protein.git/static/js/main.82d278a9.js.map",
+    "787.d1198a29.chunk.js.map": "/oleg-code/mix-protein.git/static/js/787.d1198a29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28e136b5.css",
-    "static/js/main.e0192fc7.js"
+    "static/js/main.82d278a9.js"
   ]
 }
