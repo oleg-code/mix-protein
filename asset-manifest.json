@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mix-protein/static/css/main.28e136b5.css",
-    "main.js": "/mix-protein/static/js/main.b7146935.js",
+    "main.css": "/mix-protein/static/css/main.c8e17f17.css",
+    "main.js": "/mix-protein/static/js/main.69e05dce.js",
     "static/js/787.d1198a29.chunk.js": "/mix-protein/static/js/787.d1198a29.chunk.js",
-    "static/media/travel-02.jpg": "/mix-protein/static/media/travel-02.6734487a30263bd3aa33.jpg",
-    "static/media/travel-03.jpg": "/mix-protein/static/media/travel-03.9f92d8d45d7140e30180.jpg",
-    "static/media/travel-01.jpg": "/mix-protein/static/media/travel-01.1be0c3c91378e3609619.jpg",
+    "static/media/travel-03.jpg": "/mix-protein/static/media/travel-03.78c3369772a029f720af.jpg",
+    "static/media/travel-01.jpg": "/mix-protein/static/media/travel-01.0d4f2bf9cb4c675fd5b7.jpg",
+    "static/media/travel-02.jpg": "/mix-protein/static/media/travel-02.3387be2a1dbe78810dbf.jpg",
     "index.html": "/mix-protein/index.html",
-    "main.28e136b5.css.map": "/mix-protein/static/css/main.28e136b5.css.map",
-    "main.b7146935.js.map": "/mix-protein/static/js/main.b7146935.js.map",
+    "main.c8e17f17.css.map": "/mix-protein/static/css/main.c8e17f17.css.map",
+    "main.69e05dce.js.map": "/mix-protein/static/js/main.69e05dce.js.map",
     "787.d1198a29.chunk.js.map": "/mix-protein/static/js/787.d1198a29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28e136b5.css",
-    "static/js/main.b7146935.js"
+    "static/css/main.c8e17f17.css",
+    "static/js/main.69e05dce.js"
   ]
 }
