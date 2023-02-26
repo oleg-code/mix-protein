@@ -1,13 +1,23 @@
 import React, { useState } from "react";
 import "./Navbar.css";
 import { FiMenu, FiX } from "react-icons/fi";
+import Modal from "./Modal";
 
 const Navbar = ({ navbarLinks }) => {
-  // Determines if the "menu icon" was clicked or not. Note that this icon is only visible when the window width is small.
   const [menuClicked, setMenuClicked] = useState(false);
+  const [modalOpen, setModalOpen] = useState(false);
 
   const toggleMenuClick = () => {
     setMenuClicked(!menuClicked);
+  };
+
+  const openModal = (url) => {
+    setModalOpen(true);
+    console.log(`Opening modal for ${url}`);
+  };
+
+  const closeModal = () => {
+    setModalOpen(false);
   };
 
   return (
@@ -30,15 +40,25 @@ const Navbar = ({ navbarLinks }) => {
         {navbarLinks.map((item, index) => {
           return (
             <li className="navbar__item" key={index}>
-              <a className="navbar__link" href={item.url}>
+              <a
+                className="navbar__link"
+                href={item.url}
+                onClick={() => openModal(item.url)}
+              >
                 {item.title}
               </a>
             </li>
           );
         })}
       </ul>
+      {modalOpen && <Modal onClose={closeModal} />}
     </nav>
   );
 };
 
 export default Navbar;
+
+
+
+
+

@@ -8,9 +8,9 @@ import Slider from "./components/Slider";
 
 function App() {
   const navbarLinks = [
-    { url: "#", title: "Home" },
-    { url: "#", title: "Trips" },
-    { url: "#", title: "Rewards" },
+    { url: "#", title: "Придбати" },
+    { url: "#", title: "Інфо" },
+    { url: "#", title: "Про нас" },
   ];
 
   return (
